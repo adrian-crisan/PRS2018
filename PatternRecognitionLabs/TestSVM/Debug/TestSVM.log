@@ -1,0 +1,8 @@
+﻿  svm.cpp
+  svm-toy.cpp
+d:\utcn\an4\prs\opencvapplication-vs2015_ocv31_basic\testsvm\svm-toy.cpp(390): warning C4838: conversion from 'int' to 'signed char' requires a narrowing conversion
+d:\utcn\an4\prs\opencvapplication-vs2015_ocv31_basic\testsvm\svm-toy.cpp(453): warning C4838: conversion from 'int' to 'signed char' requires a narrowing conversion
+  Generating Code...
+svm-toy.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  TestSVM.vcxproj -> D:\UTCN\An4\PRS\OpenCVApplication-VS2015_OCV31_basic\TestSVM\Debug\TestSVM.exe
+  TestSVM.vcxproj -> D:\UTCN\An4\PRS\OpenCVApplication-VS2015_OCV31_basic\TestSVM\Debug\TestSVM.pdb (Full PDB)
